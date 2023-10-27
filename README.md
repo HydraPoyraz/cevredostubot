@@ -1,0 +1,2 @@
+# cevredostubot
+bot
