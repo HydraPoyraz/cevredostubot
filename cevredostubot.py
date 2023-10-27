@@ -16,4 +16,4 @@ async def whats_app(ctx):
 async def heh(ctx, count_heh = 5):
     await ctx.send("he" * count_heh)
 
-bot.run("MTE2NDk3MjE1NDM2Njk5NjU2MQ.G-L-NK.q05LGwlPE6255bT1OfTC3oIIjvTZGD700-V5yU")
+bot.run("TOKEN BURAYA!!!")
